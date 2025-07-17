@@ -26,17 +26,10 @@ I enjoy tackling hard engineering problems with a rigorous and research-driven a
 ---
 
 ## 🧰 Tools & Technologies
-- Programming: Python, C++, C, Bash
+- Programming: Python, Java, Javascript, Typescript
 - Hardware: Embedded microcontrollers, sensors, IMUs, SoCs
 - Platforms: Linux, ROS, Git, Docker
 - Research: Digital twins, anomaly detection, cybersecurity for OT/ICS
-
----
-
-## 📫 Contact
-🌐 [**arjuncaputo.com**](https://arjuncaputo.com)  
-📧 Email: *arjun@arjuncaputo.com*  
-🔗 [LinkedIn](https://www.linkedin.com/in/arjuncaputo/) *(optional — remove if you prefer)*
 
 ---
 
