@@ -176,8 +176,6 @@ graph TD
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arjuncaputo.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun@arjuncaputo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjuncaputo/)
 
 </div>
 
@@ -185,13 +183,3 @@ graph TD
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════════════╗
-║  "The best way to predict the future is to invent it... securely."     ║
-║                                            - Alan Kay (modified)       ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
-
-<sub>🤖 Building tomorrow's secure robotic systems, one commit at a time</sub>
-
-</div>
