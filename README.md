@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I’m Arjun Caputo
 
-<!--
-**arcaputo/arcaputo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 *Robotics Engineer & Researcher*
 
-Here are some ideas to get you started:
+Welcome to my GitHub. I work at the intersection of **robotics hardware, cybersecurity, and applied research**, designing and analyzing systems that are secure, reliable, and innovative.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current interests include:
+- 🤖 Robotics hardware design and testing
+- 🔬 Research on secure embedded systems and digital twins
+- 📊 Machine learning applied to fault detection and anomaly analysis
+
+I enjoy tackling hard engineering problems with a rigorous and research-driven approach.
+
+---
+
+## 🔷 Selected Projects
+- [**ML-Trained Digital Twin for SIF-400**](https://github.com/arcaputo/SIF-400-digital-twin)  
+  Building a purely machine-learning-based digital twin to distinguish system malfunctions from cyberattacks.
+  
+- [**Inertial Measurement Unit Design**](https://github.com/arcaputo/imu-project)  
+  Developing a microcontroller-based IMU for position and rotation tracking in robotics applications.
+
+- [**Secure SoC Research**](https://github.com/arcaputo/soc-cybersecurity)  
+  Exploring architectures and techniques to harden system-on-chip designs for consumer-grade robotics.
+
+---
+
+## 🧰 Tools & Technologies
+- Programming: Python, C++, C, Bash
+- Hardware: Embedded microcontrollers, sensors, IMUs, SoCs
+- Platforms: Linux, ROS, Git, Docker
+- Research: Digital twins, anomaly detection, cybersecurity for OT/ICS
+
+---
+
+## 📫 Contact
+🌐 [**arjuncaputo.com**](https://arjuncaputo.com)  
+📧 Email: *arjun@arjuncaputo.com*  
+🔗 [LinkedIn](https://www.linkedin.com/in/arjuncaputo/) *(optional — remove if you prefer)*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arcaputo&show_icons=true&theme=default" />
+</p>
