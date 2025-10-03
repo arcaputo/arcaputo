@@ -39,7 +39,6 @@
 ┌─────────────────┐
 │ Embedded Systems│
 │ OT/ICS Security │
-│ SoC Hardening   │
 │ Attack Detection│
 └─────────────────┘
 ```
@@ -53,7 +52,6 @@
 │ Digital Twins   │
 │ ML Fault Detect │
 │ Anomaly Analysis│
-│ System Modeling │
 └─────────────────┘
 ```
 
@@ -68,7 +66,7 @@
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🧠 ML-Trained Digital Twin for SIF-400</b></summary>
+<summary><b>🧠 Digital Twin for SIF-400</b></summary>
 
 ```yaml
 Repository: arcaputo/SIF-400-digital-twin
@@ -77,12 +75,12 @@ Tech Stack: Python, TensorFlow, Digital Twin Architecture
 Status: Active Development
 ```
 
-**Key Innovation:** Training neural networks to model normal system behavior, enabling real-time detection of both mechanical failures and security breaches through deviation analysis.
+**Key Innovation:** Created a custom dashboard to model normal system behavior, enabling real-time detection of both mechanical failures and security breaches through deviation analysis.
 
 </details>
 
 <details>
-<summary><b>📡 Inertial Measurement Unit Design</b></summary>
+<summary><b>📡 Inertial Measurement Unit Design (In Progress) </b></summary>
 
 ```yaml
 Repository: arcaputo/imu-project
@@ -96,19 +94,6 @@ Hardware: MPU-6050, STM32, Custom PCB Design
 </details>
 
 <details>
-<summary><b>🔐 Secure SoC Research</b></summary>
-
-```yaml
-Repository: arcaputo/soc-cybersecurity
-Objective: Hardening consumer robotics against hardware attacks
-Research Areas: Side-channel analysis, secure boot, TEE implementation
-Tools: ARM TrustZone, Hardware Security Modules
-```
-
-**Research Impact:** Developing practical security architectures for resource-constrained robotic systems.
-
-</details>
-
 ---
 
 ## ⚡ Technology Stack
@@ -117,9 +102,7 @@ Tools: ARM TrustZone, Hardware Security Modules
 
 ### 💻 **Programming & Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🔧 **Hardware & Embedded**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -128,7 +111,6 @@ Tools: ARM TrustZone, Hardware Security Modules
 
 ### 🛠️ **Platforms & Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
