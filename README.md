@@ -4,12 +4,10 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║                  🎯 Robotics Engineer & Researcher           ║
+║                  🎯 Aspiring Roboticist & Researcher           ║
 ║              Hardware • Cybersecurity • Research             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Designing+secure+%26+reliable+robotic+systems;Building+ML-powered+digital+twins;Researching+embedded+cybersecurity;Hardware+%2B+Software+%3D+Innovation)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,7 +48,7 @@
 ```
 ┌─────────────────┐
 │ Digital Twins   │
-│ ML Fault Detect │
+│ Fault Detection │
 │ Anomaly Analysis│
 └─────────────────┘
 ```
